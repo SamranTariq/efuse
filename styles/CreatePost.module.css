@@ -1,0 +1,53 @@
+.post_card {
+  width: 80%;
+
+  border-radius: 10px !important;
+  background-color: white;
+  box-shadow: 10px 10px 60px #575a5e, -10px -10px 60px #ffffff;
+}
+
+.img_div {
+  width: 4em;
+}
+.user {
+  background-color: rebeccapurple;
+  width: 48px;
+}
+.text_area {
+  border: none;
+  outline: none;
+  margin-left: 1em;
+  margin-top: 5px;
+  width: 100%;
+}
+.text_area:focus {
+  border: 0 none #fff;
+  overflow: hidden;
+  outline: none;
+}
+
+.post_footer {
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+.photo_video_button {
+  border: 0px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  font-size: 14px;
+  float: left;
+}
+
+.post_it_button {
+  background-color: royalblue;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 0.3em;
+  padding-left: 1em;
+  padding-right: 1em;
+  float: right;
+}

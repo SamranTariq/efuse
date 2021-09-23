@@ -1,0 +1,82 @@
+.container {
+  margin-top: 1.2em;
+}
+
+.container_two {
+  margin-top: 1.2em;
+  align-items: center;
+}
+
+.img_div {
+  width: 4em;
+}
+.user {
+  background-color: rebeccapurple;
+  width: 48px;
+}
+
+.add_comment {
+  border: 2px solid rgb(39, 39, 39);
+  border-radius: 2em;
+  margin-top: 0.2em;
+}
+
+.list_comment_card {
+  background-color: #d9e1eb;
+}
+
+.name {
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+}
+.tag {
+  color: royalblue;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin: 0px;
+  font-size: 12px;
+  text-align: left;
+}
+
+.timestamp {
+  float: right;
+  font-size: 12px;
+  color: #7d90ab;
+}
+
+.caption {
+  text-align: left;
+  color: #575a5e;
+  margin-top: 0.5em;
+}
+
+.like_comment_count_div {
+  margin-top: 0.4em;
+  color: #686767;
+  font-size: 14px;
+}
+.like_count {
+  float: left;
+}
+.comment_count {
+  margin-left: 1em;
+  float: left;
+}
+
+.like {
+  float: left;
+}
+.comment {
+  margin-left: 1em;
+  float: left;
+}
+
+.line {
+  margin-left: 1em;
+}
+
+.text_along_icon {
+  font-size: 12px;
+  text-align: center;
+}

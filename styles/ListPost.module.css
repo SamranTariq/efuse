@@ -1,0 +1,72 @@
+.post_list_card {
+  width: 80%;
+  margin-top: 2em;
+  border-radius: 10px !important;
+  background-color: white;
+  box-shadow: 10px 10px 60px #575a5e, -10px -10px 60px #ffffff;
+}
+
+.img_div {
+  width: 4em;
+}
+.user {
+  background-color: rebeccapurple;
+  width: 48px;
+}
+
+.post_footer {
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+  padding: 0.8em;
+}
+
+.caption {
+  text-align: left;
+  color: #575a5e;
+}
+
+.comment {
+  cursor: pointer;
+}
+
+.like {
+  cursor: pointer;
+}
+.name {
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+}
+.location {
+  color: royalblue;
+  padding: 2px;
+  margin: 0px;
+  font-size: 12px;
+  text-align: left;
+}
+
+.timestamp {
+  color: #575a5e;
+  font-size: 12px;
+  text-align: left;
+}
+/* like  */
+.like_comment_count_div {
+  margin-top: 1.2em;
+  color: #686767;
+}
+.like_count {
+  float: left;
+}
+.comment_count {
+  margin-left: 1em;
+  float: left;
+}
+
+.like {
+  float: left;
+}
+.comment {
+  margin-left: 1em;
+  float: left;
+}
